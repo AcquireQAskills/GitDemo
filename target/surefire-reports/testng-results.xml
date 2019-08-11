@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="33" started-at="2019-08-10T06:03:05Z" finished-at="2019-08-10T06:03:05Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="33" started-at="2019-08-10T06:03:05Z" finished-at="2019-08-10T06:03:05Z">
+      <class name="packagename.demomvnTest">
+        <test-method status="PASS" signature="mobileapp()[pri:0, instance:packagename.demomvnTest@7f63425a]" name="mobileapp" duration-ms="9" started-at="2019-08-10T11:33:05Z" finished-at="2019-08-10T11:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+        <test-method status="PASS" signature="weblogin()[pri:0, instance:packagename.demomvnTest@7f63425a]" name="weblogin" duration-ms="0" started-at="2019-08-10T11:33:05Z" finished-at="2019-08-10T11:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- weblogin -->
+      </class> <!-- packagename.demomvnTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
