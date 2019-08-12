@@ -15,5 +15,11 @@ public class demomvnTest
 
 		System.out.println("welcome to mvn mobileapp");
 	}
+	@Test
+	public void api()
+	{
+		System.out.println("welcome to API");
+		System.out.println("ABC");
+	}
 
 }
